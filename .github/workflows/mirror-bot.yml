@@ -3,7 +3,7 @@ name: setting up environment
 on: [push]
     
 env:
- username: ElytrA8
+ username: pkpk0
 jobs:
   build:
     runs-on: ubuntu-18.04
